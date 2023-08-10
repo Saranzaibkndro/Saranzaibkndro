@@ -1,0 +1,10 @@
+pkg update && pkg upgrade
+pkg install 
+pkg nstall python2
+git cloneecho "# Saranzaibkndro" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Saranzaibkndro/Saranzaibkndro.git
+git push -u origin main
